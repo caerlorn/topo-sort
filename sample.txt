@@ -1,0 +1,9 @@
+compe221 compe320
+compe105 compe106
+compe106 compe221
+compe221 compe222
+math101 math102
+math102 math201
+math101 compe221
+compe222 se401
+math201 se401
