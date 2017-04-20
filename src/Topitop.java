@@ -1,7 +1,3 @@
-/*Yýldýrým Can Þehirlioðlu
- * 080302010
- * COMPE 323 HW2
- */
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
